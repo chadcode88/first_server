@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "sahil",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "Its working smoothly.",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
