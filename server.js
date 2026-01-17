@@ -14,9 +14,9 @@ app.get('/login', (req, res) =>{
     res.send('user ' + req.params.id);
 });
 
-app.post('/Post', (req,res)=> {
-    res.send('kaisa hai bidu');
-});
+// app.post('/Post', (req,res)=> {
+//     res.send('kaisa hai bidu');
+// });
 
 
 app.listen(PORT, () => {
